@@ -1,3 +1,3 @@
 # Git Tutorials
 
-Dummy description
+Dummy description.
